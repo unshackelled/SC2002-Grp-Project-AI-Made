@@ -1,0 +1,78 @@
+# Stage 3 reproducible DEFEAT run (base setting).
+# The manager never uses Happy Hour and keeps the Host and Waiter idle every turn: nobody is
+# seated, impatient customers leave and nobody pays. Each turn: Happy Hour no, Host wait, Waiter wait.
+1
+# T1
+0
+0
+0
+# T2
+0
+0
+0
+# T3
+0
+0
+0
+# T4
+0
+0
+0
+# T5
+0
+0
+0
+# T6
+0
+0
+0
+# T7
+0
+0
+0
+# T8
+0
+0
+0
+# T9
+0
+0
+0
+# T10
+0
+0
+0
+# T11
+0
+0
+0
+# T12
+0
+0
+0
+# T13
+0
+0
+0
+# T14
+0
+0
+0
+# T15
+0
+0
+0
+# T16
+0
+0
+0
+# T17
+0
+0
+0
+# T18
+0
+0
+0
+# Main menu: quit
+0

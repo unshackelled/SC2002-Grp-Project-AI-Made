@@ -1,0 +1,42 @@
+# Stage 1 reproducible DEFEAT run (base setting).
+# The manager keeps the Waiter idle every turn: nobody is seated, everyone eventually
+# leaves unhappy and nobody pays. The Chef never has an order, so needs no input.
+1
+# T1  Waiter waits
+0
+# T2  Waiter waits
+0
+# T3  Waiter waits
+0
+# T4  Waiter waits
+0
+# T5  Waiter waits
+0
+# T6  Waiter waits
+0
+# T7  Waiter waits
+0
+# T8  Waiter waits
+0
+# T9  Waiter waits
+0
+# T10  Waiter waits
+0
+# T11  Waiter waits
+0
+# T12  Waiter waits
+0
+# T13  Waiter waits
+0
+# T14  Waiter waits
+0
+# T15  Waiter waits
+0
+# T16  Waiter waits
+0
+# T17  Waiter waits
+0
+# T18  Waiter waits
+0
+# Main menu: quit
+0
